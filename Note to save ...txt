@@ -1,0 +1,8 @@
+For Speech to text Service : 
+API Key : FIkcf58YvMiQ3TJP8E9Br7X8bfAqWz0R_uMQJaf4CXO6
+Region : us-south
+
+For text to speech service : 
+API Key : 5i0ELWTmH0LmfhyYB52VkixmgAbSFKuibtlQiRuRbnpM
+URL : https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/4f5bffc3-cd89-4d50-b2c1-959b6a3ad660
+
